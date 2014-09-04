@@ -1,3 +1,6 @@
+This repository exists just for archiving / historical purposes. I wrote this application ages ago.
+It might serve me as a humble reminder of my early programming ventures.
+
 = Note on conversion from Berlios SVN to github
 svn2git has some troubles with tags in my original SVN repo. They didn't get converted. But that is not a big deal.
 
